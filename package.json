@@ -1,0 +1,19 @@
+{
+  "name": "server.js",
+  "version": "1.0.0",
+  "description": "assignment 2 Phoenix T",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "/Users/phoenixtomlinson/proj2 webdev2/.git/"
+  },
+  "author": "Phoenix Tomlinson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
